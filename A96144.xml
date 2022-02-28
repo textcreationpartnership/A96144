@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of Mercurius Politicus: or Some of his falsities and mistakes, mentioned in his intelligence of the twelfth of October, concerning the dispute in Lumbardstreet, detected and disproved. Wherein the carriage of the people resort-in to the meeting-place there, upon the said day, and other times, is cleared: to the satisfaction of those that will not censure before they understand, nor give up their judgments to trust vanity and lyes. By John Webster.</title>
+            <author>Webster, John, 1610-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96144</idno>
+            <idno type="STC">Wing W1211</idno>
+            <idno type="STC">Thomason E715_15</idno>
+            <idno type="STC">ESTC R207266</idno>
+            <idno type="EEBO-CITATION">99866328</idno>
+            <idno type="PROQUEST">99866328</idno>
+            <idno type="VID">166732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of Mercurius Politicus: or Some of his falsities and mistakes, mentioned in his intelligence of the twelfth of October, concerning the dispute in Lumbardstreet, detected and disproved. Wherein the carriage of the people resort-in to the meeting-place there, upon the said day, and other times, is cleared: to the satisfaction of those that will not censure before they understand, nor give up their judgments to trust vanity and lyes. By John Webster.</title>
+                  <author>Webster, John, 1610-1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Webster and R. Hammond.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Octob. 25. 1653.</note>
+                  <note>Annotation on Thomason copy: "Octob: 27 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Erbery, William, 1604-1654 --  Early works to 1800.</term>
+               <term>Nedham, Marchamont, 1620-1678 --  Early works to 1800.</term>
+               <term>Mercurius politicus.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166732:1" rendition="simple:additions"/>
+            <p>THE PICTURE OF Mercurius Politicus: OR Some of his Falſities and Miſtakes, menti<g ref="char:EOLhyphen"/>tioned in his Intelligence of the twelfth of <hi>October,</hi> concerning the DISPUTE In <hi>L<g ref="char:V">Ʋ</g>MBARDSTREET,</hi> Detected and Diſproved.</p>
+            <p>Wherein the Carriage of the People reſort-in to the Meeting-place there, upon the ſaid day, and other times, is cleared:</p>
+            <p>To the ſatisfaction of thoſe that will not cenſure before they underſtand, nor give up their Judg<g ref="char:EOLhyphen"/>ments to truſt Vanity and Lyes.</p>
+            <p>By <hi>John Webſter.</hi>
+            </p>
+            <q xml:lang="lat">
+               <l>—Pictoribus atque Poetis</l>
+               <l>Quidlibet audendi, ſemper fuit aequa poteſtas.</l>
+               <bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Webſter</hi> and R. <hi>Hammond.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166732:2"/>
+            <pb n="3" facs="tcp:166732:2"/>
+            <head>The Picture of <hi>Mercurius Politicus.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Met laſt week with a printed Paper, to which is prefixed the title of <hi>Mer<g ref="char:EOLhyphen"/>curius Politicus,</hi> one who ſeems to me to hold forth Intelligence of <hi>Non-Entities,</hi> and to ſeduce the cre<g ref="char:EOLhyphen"/>dulous of the Nation into as ground<g ref="char:EOLhyphen"/>leſs a belief of what he reports, as the information was from whence he received it; and ſurely thinks the dirt of his ſcurrilous Pen to be authentique, becauſe of his conſuetude in wri<g ref="char:EOLhyphen"/>ting Liurnals: of whom (ſeeing without any perfect knowledge of me, he hath abuſed my name) I ſhall make bold to ſay ſomething in relation to his name, condition, and the ſubject that he handles; not that I honor him ſo much, as to account him worthy of a Confutation, being but a two-peny Mercenary, but onely to vindicate the Truth, and ſatisfie the innocent, who have ſuffered by the froth and vomit of his malevolent ſpirit.</p>
+            <p>Is your name <hi>Mercurius?</hi> ſurely you are not the <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> of the States, but of the Pagan gods, and have learn<g ref="char:EOLhyphen"/>ed at them to forge lyes, and invent falſities; if your ſhoulders and heels be plumed, it ſeems your head was ſo too, whence you writ your Intelligence of the Diſpute in <hi>Lumbardſtreet,</hi> for it ſhews more of the lightneſs of the feather, then the gravity of the metal: and it may be you can change ſhapes; for, if report belye you not, <hi>Mercurius Pragmaticus</hi> is turned into <hi>Mercurius Politicus;</hi> but all men may ſee you retain the old nature ſtill, being more Prag<g ref="char:EOLhyphen"/>matical than Civil. But it may be you are <hi>metallick Mer<g ref="char:EOLhyphen"/>cury,</hi> for ſurely your head was <hi>quick-ſilver'd,</hi> when you evaporated forth ſuch malignant fumes of groſs Errors; and for my part, I ſhall look upon you as common <hi>Mer<g ref="char:EOLhyphen"/>cury, non ſervus fugitivus Chymicorum, ſed Mimorum:</hi> but perhaps you are the <hi>Philoſopher Mercury,</hi> which is ſo rarely ſeen, and ſo difficultly attained, that many which think
+<pb n="4" facs="tcp:166732:3"/>themſelves very wiſe, ſcarcely believe there is any truth in it, and ſo I am ſure in this particular they may do of you. You add the name <hi>Politicus,</hi> which ſurely you underſtand, being ſo great a pretender to uphold Humane Learning, and yet your carriage in this point hath been far from the ſignificancy, having expreſſed little of Civility in tradu<g ref="char:EOLhyphen"/>cing him, whoſe face I believe you have ſcarcely ſeen, whoſe abilities you know not, and whoſe deportment in that buſineſs I am confident you were not an eye-witneſs of: but I will ſay no more, but have a charitable opinion of you, hoping you may live to make a Recantation, as a thing you are not altogether inexpert in. Yet I would have you to know, that I neither am, nor ever was <hi>Cava<g ref="char:EOLhyphen"/>lier, Presbyterian,</hi> nor turn-coat; nor am ſtated ſo low, as not to look for reparation for ſuch inſolent indignities as your ignorant and raſh pen hath caſt upon me. And though you may be licenſed to write Intelligence, yet I hope not to make Libels; and without ſatisfaction from you, know, I am able to know your ſtation, and under<g ref="char:EOLhyphen"/>ſtand your protection, and therefore blame me not if I look a little after it. And ſo to the matter.</p>
+            <p>And firſt you ſay, that <hi>in a Church in</hi> Lumbardſtreet <hi>there was a very famous Diſpute, as may appear both by the Opinions maintained, and by the management of the buſineſs.</hi> Good Mr <hi>Politicus,</hi> the Diſpute was in a Steeple-houſe, or Meet<g ref="char:EOLhyphen"/>ing-place, built of lime and ſtone; now in what propri<g ref="char:EOLhyphen"/>ety of language your Learning can call that a <hi>Church,</hi> I know not: Did the Apoſtles or primitive Saints ever call the Meeting-places a <hi>Church?</hi> Sir, this reliſhes more of ſuperſtition and profaneneſs, then of piety and learning; but he muſt needs make a gallant progreſs, who hath ſo fair a beginning. Whether the Diſpute were famous or not, I know not; but I am ſure your report of it is falſe, and infamous enough; but it may be you judged the Diſpute as headleſs as your lines: Well, for the Opinions and man<g ref="char:EOLhyphen"/>agement, Were you an ear and eye-witneſs of them? if you were, ſurely it was in a dream, wherein you were as uncertain what was diſputed, and how things were man<g ref="char:EOLhyphen"/>aged, as the World is, whether you be <hi>Pragmaticus</hi> or <hi>Po<g ref="char:EOLhyphen"/>liticus:</hi> but I am confident, by reaſon of your groſs miſ<g ref="char:EOLhyphen"/>takes
+<pb n="5" facs="tcp:166732:3"/>and abſurd falſities, you were not preſent, but was onely hired to blow the lying Trumpet of <hi>Baals</hi> Prieſts. However, for the Diſpute, I am loth to aſperſe any mans perſon; I have charity to believe, that the Gentlemen that came to oppoſe me, did appear, according to their own light, to ſeek the Truth, not to ſtifle it; and therefore, without prejudice to them, I ſhall give a ſhort Narrative of the manner and matter. It had been often queryed concerning me, and to me, whether or no I would by Diſpute make good what I had delivered, and therefore I did publiquely declare, that <hi>I was always willing to give an anſwer to every one that ſhould ask me a reaſon of the hepe that is in me:</hi> (1 <hi>Pet.</hi> 3.15) Soon after, word was brought me, that they had found a Champion, and the day was ap<g ref="char:EOLhyphen"/>pointed, though until the very time I was ignorant, both who ſhould be mine Opponent, and what ſhould be diſputed of, ſo that I could have no foregoing preparation, though mine Adverſary came prepared, and furniſhed with his Arguments and Papers of collected Notes: When I came to examine what ſhould be diſputed of, he told me he came to confute ſome things in a little Treatiſe that I had publiſhed; to which I anſwered, that it was an abſolute impropriation for me to admit of a Diſpute of thoſe things that were aſſerted to the World, and not anſwered: But perceiving that their end was to gain repute with the people, and to finde any poſſible occa<g ref="char:EOLhyphen"/>ſion to aſperſe me, and that Truth that God hath made me a weak means to make manifeſt; leſt they ſhould vain-gloriouſly vaunt that I either would not, could not, or durſt not diſpute (and ſo the Truth might ſuffer in my refuſal) I was willing to admit that he ſhould refute what he could in the Book, ſo that he would purſue the office of a Refuter, to take the Ar<g ref="char:EOLhyphen"/>guments in order, and ſo (if he could) refell them.</p>
+            <p>The next thing was, I deſired to know what order he would proceed to diſpute in, and he told me Syllogiſtically: To which I replyed, that Syllogizing was a tedious and unprofit<g ref="char:EOLhyphen"/>able way, becauſe all the Propoſitions muſt be made good from the Text, which is the divine Authority, and ſo the laſt recur<g ref="char:EOLhyphen"/>rence would be to the Scriptures themſelves; and therefore it were better onely to alledge them, and argue forth of them; not, as I told them, that I denyed Syllogizing in Civil, Natural, Moral, and Artificial things, but if they would diſpute of any
+<pb n="6" facs="tcp:166732:4"/>ſuch things, I was willing to proceed either by Induction, Syl<g ref="char:EOLhyphen"/>logiſm, or Euclides way; and ſo they agreed we ſhould argue by the Scriptures themſelves. I ſhall not need to relate what a bitter and invective Oration he begun withall (looking upon his Notes) in application to the people, wherein (it is true) I did interrupt him, and told him it was impertinent; if he came to accuſe, thoſe Papers ſhould not be my Judges: So then he proceeded to finde ſomething in my Book to refute, but how long it was ere he could finde what, or where to begin, all thoſe that were preſent can witneſs as well as I; at laſt he found ſomething concerning the Calling of Miniſters, which when he could not tell how, nor which way to ſtate it, ano<g ref="char:EOLhyphen"/>ther perſon, who they call a Miniſter, did offer to prove before any queſtion was ſtated; to whom Mr <hi>Erbery</hi> anſwered with ſome of thoſe Arguments which he hath publiſhed: at laſt I offered to ſtate the queſtion, 1. Whether God alone ordained Miniſters; 2. Or whether man alone; 3. Or whether God and man conjunctively: But then they did divert from it, and could not by any means be brought to argue of it any more. The next thing was to refute, that of Humane Learning being ſin, or ſinful, where he would not refute nor repeat the Argu<g ref="char:EOLhyphen"/>ments from whence it was drawn, but begun to make a <hi>Syl<g ref="char:EOLhyphen"/>logiſm,</hi> as though there had been a <hi>Theſis</hi> given, and he had had the affirmative part, and ſo would needs go about to prove a Negative; to which I oppoſed their own Maxim, <hi>de negativis non datur ſcientia:</hi> In a word, there was no Argument offered, but what was anſwered, nor any Scripture brought but one, which was cleared not to make for him; ſo that the people cryed, that I ſhould go up, and ſpeak ſomething for their edi<g ref="char:EOLhyphen"/>fication, which I did out of <hi>Geneſ.</hi> 11. which God carryed me forth to expound according to the Myſtery, which one of them called me a Deceiver for, and ſaid, the Scriptures were to be underſtood literally; but the people, by their noiſe, teſti<g ref="char:EOLhyphen"/>fying their diſlike, ſuffered not his malevolent ſpirit to pro<g ref="char:EOLhyphen"/>ceed, and ſo he departed. Afterwards the Moderator for mine Opponent did ask me many queſtions, to all which I gave full Anſwers, but had not the liberty to ask one.</p>
+            <p>Mean while Mr <hi>Gardell,</hi> who was Moderator for my part, having born forth his witneſs, that they neither knew the things of God nor man, was withdrawn, and ſoon after I de<g ref="char:EOLhyphen"/>parted,
+<pb n="7" facs="tcp:166732:4"/>and then mine Opponent begun to utter ſome reproach<g ref="char:EOLhyphen"/>ful words againſt me, in which the people would not ſuffer him to proceed; but ſome cryed, that he ſpoke things that were falſe; and ſome wiſht him, if he had any thing from God, to ſpeak it; but if he did but rayl, they would not hear him; and ſo he was got away. So that there was no tumult, nor I, nor Mr <hi>Erbery</hi> in any danger of broken pates, as the broken-brain'd, and broken-conſcienced <hi>Politicus</hi> hath moſt falſly di<g ref="char:EOLhyphen"/>vulged to the World. It may be there were ſome ſuch idle per<g ref="char:EOLhyphen"/>ſons as himſelf, which came to make a tumult, and father it up<g ref="char:EOLhyphen"/>on others, but I neither heard nor ſaw any ſuch thing: and truly if the Women loſt their Kerchiefs, they would be moſt uſeful to ſtop the mouth of all ſuch lyars. I confeſs truly, that I had not ſaid thus much, either to glory, or ſhew any mans weak<g ref="char:EOLhyphen"/>neſs, but becauſe many that are ignorant of, and Enemies to the Truth, being prejudiced both againſt me and my doctrine, do falſly report, that I would ſtand to nothing; which how impertinent and unjuſt, I leave to all thoſe that heard, and ſaw the carriage of that day; and what my deportment wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hundreds can tell better then <hi>Politicus.</hi>
+            </p>
+            <p>Now therefore Mr <hi>Mercury,</hi> I hope you will be aſhamed of your own groſs miſtakes, and ceaſe to cenſure thoſe you un<g ref="char:EOLhyphen"/>derſtand not: For Mr <hi>Erbery,</hi> he is a godly conſcientious man, and none but an <hi>Iſhmael</hi> will deride, or hate him; and for giving either him or me a true character, is not in the ſphere of the ignorance of poor <hi>Politicus.</hi> And for the Stage, and play<g ref="char:EOLhyphen"/>ing of the prize you tell of, ſurely your <hi>Church</hi> is not now becom'd a Stage; ſurely you dream either of Fencers or Plays, with whoſe Tribe, or Trade, it may be you have had ſome af<g ref="char:EOLhyphen"/>finity, and ſo may fit a man then either for Fool or Knave, if not for both.</p>
+            <p>And whereas you ſay, we endevored to knock down Learn<g ref="char:EOLhyphen"/>ing and the Miniſtry both together, I am afraid you never underſtood what the true Miniſtry of Jeſus Chriſt is, for if you had, you would have known that no power of man can knock it down, nor the gates of Hell prevail againſt it: What the Heavenly Father hath not planted, ſhall be eradicated; but what he hath rooted, muſt ſtand: What power knockt down that Miniſtry which we call Popiſh and Prelatical? the ſame will, without me or Mr <hi>Erbery,</hi> knock down all that
+<pb n="8" facs="tcp:166732:5" rendition="simple:additions"/>Antichriſtian Miniſtrie that man hath ſet up and not God; and then Mr. <hi>Po<g ref="char:EOLhyphen"/>liticus,</hi> take you heed of a broken pate, or a worſe buſineſſe.</p>
+            <p>And now I come to your learned c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſure of knocking down Learning, wherein you ſpeak ſo learnedly, that doubtleſſely you might with <hi>Cardinall C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> write another Book <hi>de dicta <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnoran<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia.</hi> Doe you know what kinde of Learning it was, or in what reſpect I would have knockt it down? or do you not know that <hi>dolus <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niverſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>?</hi> doubtleſſe you are very <hi>Logical,</hi> and yet remembers not the four particulars in ſtating of a queſtion: For I muſt tell you, I am for ſetting up Learning as much as <hi>Politicus,</hi> or any in the Nation, and am alſo for knocking it down; neither are theſe contradictory; &amp; if it be a Riddle, I will open it unto you. Is it not truely affirmed in a <hi>Solar ec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Sol obſcuratur, et Sol non obſcuratur?</hi> and yer both true, yet not in the ſelfe ſame reſpect? So it is as true, I am a friend to Learning, and I am an enemy to Learning; but not in the ſelfe ſame reſpect</p>
+            <p>Fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt therefore, I would have you, and all the world to know, that I am for the ſetting up of that divine Teaching, &amp; learning of the Spirit of God, that the Schools do call infuſive; for we have not received the Spirit of the World, but the Spirit which is of God, that we might know the things that are freely given to us of God.</p>
+            <p>Secondly, I am not an enemy to humane, or acquired hearing, as it is conſi<g ref="char:EOLhyphen"/>dred in a natural, civil, artificial, or moral reſpect, but as it is conſidered in a Theological reſpect, I do and muſt hold, that it is ſinful, becauſe it is that wiſdome of the fleſh that is emnity againſt God, and is not ſubject to the Law of God, neither indeed can be: and becauſe it is that wiſedome which deſcendeth not from above, but is earthly, ſenſual, and deviliſh; which is no ſuch ſtrange thing but what thoſe Authors that men call <hi>O hodoxal,</hi> whether ancient, middle, or modern, doe affirme aſwel as I. And thus much I offer to ſatisfie all honeſt and conſcie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us ſpirits; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd not to vindicate my ſelfe, but the Truth of Jeſus Chriſt.</p>
+            <p>For the reſt that you report of Mr. Erbery, except his offering to prove one of the parties, a beaſt &amp; no man, a monſter and no miniſter, at that time there was no ſuch thing ſpoken by him. And now Sir, though you may think I have dealt ſomething tartly with you, let your own conſcience witneſs whether you deſerve it or no, ſeeing you have blazed ſuch untruths to the whole Nation, not ſo much to my prejudice (who doth account my ſelf the meaneſt of men) but to the ſcandal of the truth of the Goſpel, &amp; of all thoſe that love &amp; partake of it: yet I ſhall be ſo candid with you, that upon the leaſt intima<g ref="char:EOLhyphen"/>tion to the world of the acknowledgment of your miſtake, there ſhal be none more ready then my ſelf to forget all, and freely imbrace you; if not, let the guilt lie at his door that deſerves it.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 25. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
